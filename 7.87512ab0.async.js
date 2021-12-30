@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[7],{Dtc0:function(n,t,e){"use strict";e.r(t);var r=e("q1tI"),u=e.n(r);function o(){return window.router.push("/markets"),u.a.createElement("div",null)}o.defaultProps={},t["default"]=o}}]);
